@@ -300,9 +300,11 @@ a.active {
 #home h1{
     line-height: 15vh;
     font-weight: 200;
+    
 }
 #home h4{
-    color: #4b03e6;
+    color: #ffffff;
+    
 }
 .pup{
     color: #4b03e6;
@@ -337,6 +339,7 @@ a.active {
     
     
 }
+
 
 .about-img-div img {
     margin: 0 auto;
